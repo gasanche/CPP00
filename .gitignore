@@ -1,0 +1,6 @@
+megaphone
+*.swap
+*.o
+*.d
+*.a
+.DS*
