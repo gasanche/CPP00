@@ -18,7 +18,9 @@ class Contact{
 	int		Index;
 	std::string	FirstName;
 	std::string	LastName;
-	std::string	Nickname
+	std::string	Nickname;
+	int		PhoneNumber;
+	std::string	DarkestSecret;
 };
 
 #endif
